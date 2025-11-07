@@ -114,7 +114,7 @@ export const MainPage = () => {
     /* {
       component: <PodcastPage />,
       duration: 30,
-      priority: () => 1000.2,
+      priority: () => 1.2,
     }, */
     /* {
       component: <MovemberPage />,
