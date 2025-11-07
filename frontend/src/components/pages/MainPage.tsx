@@ -64,11 +64,11 @@ export const MainPage = () => {
     //     else return 0;
     //   },
     // },
-    /* { 
+    { 
       component: <SlackPage />,
       duration: 60,
       priority: () => 2.5,
-    }, */
+    },
     /* {
       component: <VideoPage pageDuration={60} />,
       duration: 60,
